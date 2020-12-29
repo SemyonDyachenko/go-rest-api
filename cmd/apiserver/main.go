@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"golang/internal/app/apiserver"
+	"go-rest-api/internal/app/apiserver"
 	"log"
 
 	"github.com/BurntSushi/toml"
