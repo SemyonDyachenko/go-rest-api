@@ -1,5 +1,4 @@
 bind_addr = ":3000"
 log_level = "debug"
-
-[store]
-database_url = "host=localhost dbname=treestore_db sslmode=disable"
+database_url = "host=localhost dbname=treeshop_db sslmode=disable"
+session_key = "e982ab2f6c03996fbd2d5ee9b0457d3d"
